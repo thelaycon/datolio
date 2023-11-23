@@ -2,23 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/portfolio/nigeria-automotive/</loc>
+    <loc>https://tobisights.netlify.app/portfolio/nigeria-automotive/</loc>
     <lastmod>2023-06-06T15:44:46+06:00</lastmod>
   </url><url>
-    <loc>http://example.org/</loc>
+    <loc>https://tobisights.netlify.app/</loc>
     <lastmod>2023-06-06T15:44:46+06:00</lastmod>
   </url><url>
-    <loc>http://example.org/contact/</loc>
+    <loc>https://tobisights.netlify.app/contact/</loc>
     <lastmod>2019-12-23T20:17:01+06:00</lastmod>
   </url><url>
-    <loc>http://example.org/portfolio/</loc>
+    <loc>https://tobisights.netlify.app/portfolio/</loc>
     <lastmod>2019-12-23T16:48:28+06:00</lastmod>
   </url><url>
-    <loc>http://example.org/about/</loc>
+    <loc>https://tobisights.netlify.app/about/</loc>
     <lastmod>2018-07-12T18:19:33+06:00</lastmod>
   </url><url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://tobisights.netlify.app/categories/</loc>
   </url><url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://tobisights.netlify.app/tags/</loc>
   </url>
 </urlset>

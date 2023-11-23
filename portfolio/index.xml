@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tobisights&#39; Portfolio on Tobsights - Analysis by Tobi</title>
-    <link>http://example.org/portfolio/</link>
+    <link>https://tobisights.netlify.app/portfolio/</link>
     <description>Recent content in Tobisights&#39; Portfolio on Tobsights - Analysis by Tobi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 23 Dec 2019 16:48:28 +0600</lastBuildDate><atom:link href="http://example.org/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 23 Dec 2019 16:48:28 +0600</lastBuildDate><atom:link href="https://tobisights.netlify.app/portfolio/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Nigeria Automotive Market Analysis for Tsuyomi Motors</title>
-      <link>http://example.org/portfolio/nigeria-automotive/</link>
+      <link>https://tobisights.netlify.app/portfolio/nigeria-automotive/</link>
       <pubDate>Tue, 06 Jun 2023 15:44:46 +0600</pubDate>
       
-      <guid>http://example.org/portfolio/nigeria-automotive/</guid>
+      <guid>https://tobisights.netlify.app/portfolio/nigeria-automotive/</guid>
       <description>1.0 Introduction Tsuyoi Motors (強い車) is an international car-dealing organisation seeking to break into the Nigerian automotive market with a focus on recently manufactured cars. However, they are faced with multifaceted problems.</description>
     </item>
     
